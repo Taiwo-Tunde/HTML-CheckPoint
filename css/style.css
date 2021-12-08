@@ -1,0 +1,53 @@
+body {
+  background-color: #282a35;
+  text-align: center;
+  font-family: roboto;
+}
+li {
+  display: inline;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.About {
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+  font-size: 30px;
+}
+.sectiona {
+  background-color: orchid;
+}
+.Work {
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+  font-size: 30px;
+}
+.sectionb {
+  background-color: #e3e6e8;
+}
+.sectionc {
+  background-color: #717171;
+}
+.resume {
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+  font-size: 30px;
+}
+.sectiond {
+  background-color: rosybrown;
+}
+.sectione {
+  background-color: slategray;
+}
+.signup {
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+  font-size: 30px;
+}
